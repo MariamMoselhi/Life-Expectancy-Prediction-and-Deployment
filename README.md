@@ -107,4 +107,4 @@ The Streamlit app provides an interactive interface for users to input feature v
 ---
 
 ### Conclusion
-The Life Expectancy Prediction project is a well-structured machine learning application that combines data analysis, model training, and deployment. The Jupyter Notebook provides a foundation for exploring and modeling the dataset, while the Streamlit app offers an intuitive interface for predictions. The primary challenge is the `urllib3` compatibility issue due to Python 3.7’s outdated OpenSSL. By following the recommended fix (using a virtual environment and specific package versions) or upgrading Python, the app should run successfully. With minor enhancements, the project could be production-ready and more robust.
+The Life Expectancy Prediction project is a well-structured machine learning application that combines data analysis, model training, and deployment. The Jupyter Notebook provides a foundation for exploring and modeling the dataset, while the Streamlit app offers an intuitive interface for predictions.
